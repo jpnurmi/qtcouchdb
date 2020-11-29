@@ -5,6 +5,8 @@
 [![Codecov](https://codecov.io/gh/jpnurmi/qtcouchdb/branch/master/graph/badge.svg?token=YBW1VGJGSX)](https://codecov.io/gh/jpnurmi/qtcouchdb)
 [![DeepCode](https://www.deepcode.ai/api/gh/badge?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF0Zm9ybTEiOiJnaCIsIm93bmVyMSI6ImpwbnVybWkiLCJyZXBvMSI6InF0Y291Y2hkYiIsImluY2x1ZGVMaW50IjpmYWxzZSwiYXV0aG9ySWQiOjI1MTgxLCJpYXQiOjE2MDY2NjEyMzV9.YLxN-DCQJ7EJMwSudRPvaoIWOOvYU5mgTIPfC79FoVg)](https://www.deepcode.ai/app/gh/jpnurmi/qtcouchdb/_/dashboard?utm_content=gh%2Fjpnurmi%2Fqtcouchdb)
 [![Better Code](https://bettercodehub.com/edge/badge/jpnurmi/qtcouchdb?branch=master)](https://bettercodehub.com/)
+[![LGTM alerts](https://img.shields.io/lgtm/alerts/g/jpnurmi/qtcouchdb.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/jpnurmi/qtcouchdb/alerts/)
+[![LGTM grade](https://img.shields.io/lgtm/grade/cpp/g/jpnurmi/qtcouchdb.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/jpnurmi/qtcouchdb/context:cpp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 ## Example
